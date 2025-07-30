@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EazyBank accounts related qa APIs from github"
   contactDetails:
     name: "victory - QA"
-    email: "91dd2544340f465188a7b1f0aa9a5b88d12bf19834a2197c3f1e38dc9198f05b295206c8132c5857278513af4e9523e2"
+    email: "{cipher}91dd2544340f465188a7b1f0aa9a5b88d12bf19834a2197c3f1e38dc9198f05b295206c8132c5857278513af4e9523e2"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
