@@ -3,7 +3,7 @@ build:
   
   
 accounts:
-  message: "Welcome to EazyBank accounts related qa APIs from github"
+  message: "Welcome to EazyBank accounts related qa APIs from github autorefresh"
   contactDetails:
     name: "victory - QA"
     email: "{cipher}91dd2544340f465188a7b1f0aa9a5b88d12bf19834a2197c3f1e38dc9198f05b295206c8132c5857278513af4e9523e2"
