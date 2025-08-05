@@ -2,7 +2,7 @@ build:
   version: cardservice-2.0
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs autorefresh part1"
+  message: "Welcome to EazyBank cards related QA API's"
   contactDetails:
     name: "ARS - QA"
     email: "ARS@gamail.com"
