@@ -2,7 +2,7 @@ build:
   version: cardservice-1.0.1
 
 cards:
-  message: "Welcome to EazyBank cards related PRODuction APIs autorefresh PART 1"
+  message: "Welcome to EazyBank cards related PROD API's"
   contactDetails:
     name: "cardsproduction - Developer"
     email: "cards@gmail.com"
