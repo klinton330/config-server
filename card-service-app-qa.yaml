@@ -2,7 +2,7 @@ build:
   version: cardservice-2.0
 
 cards:
-  message: "Welcome to EazyBank cards related QA API's"
+  message: "Welcome to EazyBank cards related webhook API's"
   contactDetails:
     name: "ARS - QA"
     email: "ARS@gamail.com"
