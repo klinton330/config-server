@@ -3,7 +3,7 @@ build:
   
   
 cards:
-  message: "Welcome to EazyBank accounts related docker APIs "
+  message: "Welcome to EazyBank accounts related varalakshmi APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@gmail.com"
